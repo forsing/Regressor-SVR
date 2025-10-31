@@ -157,9 +157,9 @@ print()
 """
 
 🎯 Predicted Next Lottery Numbers predicted_numbers1: 
-[[ 3  7 12 16 21 25 29]]
+[[ 3  7 x x x  25 29]]
 🎯 Predicted Next Lottery Numbers predicted_numbers2 skalirani mapirani: 
-[[ 4  8 12 17 21 24 28]]
+[[ 4  8 x x x 24 28]]
 
 """
 
