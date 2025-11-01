@@ -37,7 +37,7 @@ algorithm_globals.random_seed = SEED
 
 
 # ✅ Load data
-df = pd.read_csv("/Users/milan/Desktop/GHQ/data/loto7_4504_k86.csv", header=None)
+df = pd.read_csv("/data/loto7_4504_k86.csv", header=None)
 print()
 print("✅ Data loaded successfully.")
 print()
