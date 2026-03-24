@@ -36,7 +36,7 @@ algorithm_globals.random_seed = SEED
 
 
 # ✅ Load data
-df = pd.read_csv("/Users/4c/Desktop/GHQ/data/loto7_4584_k23.csv", header=None)
+df = pd.read_csv("/data/loto7_4584_k23.csv", header=None)
 print()
 print("✅ Data loaded successfully.")
 print()
@@ -148,9 +148,9 @@ print()
 """
 
 🎯 Predicted Next Lottery Numbers predicted_numbers1: 
-[[ 4  9 14 20 25 31 37]]
+[[ 4  x 14 y 25 z 37]]
 🎯 Predicted Next Lottery Numbers predicted_numbers2 skalirani mapirani: 
-[[ 4  8 13 17 21 25 30]]
+[[ 4  8 x 17 y 25 z]]
 
 """
 
